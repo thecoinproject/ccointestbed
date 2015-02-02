@@ -1,0 +1,9 @@
+Building Ccoin
+
+See doc/readme-qt.rst for instructions on building Ccoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Ccoin.
+
+See doc/build-*.txt for instructions on building ccoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Ccoin.
